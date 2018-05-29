@@ -28,6 +28,7 @@ import java.awt.FlowLayout;
 public class MainFrame {
 
 	private JFrame frame;
+	
 
 	/**
 	 * Launch the application.
